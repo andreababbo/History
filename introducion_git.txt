@@ -1,0 +1,351 @@
+    1  sudo
+    2  sudo su
+    3  cd Descargas
+    4  git clone https://github.com/andreababbo/iso-intro-git.git
+    5  git clone https://github.com/andreababbo/iso-intro-git.git iso-intro
+    6  ls 
+    7  ls -la
+    8  sudo su
+    9  git status
+   10  cd Documentos
+   11  git status
+   12  cd Proyectolinux
+   13  cd ProyectoLinux
+   14  git status
+   15  git init
+   16  git status
+   17  git remote add origin https://github.com/andreababbo/ProyectoLinux.git
+   18  git push -u origin master
+   19  git push -u origin 
+   20  git push -u origin master
+   21  git status
+   22  ls
+   23  git init
+   24  ls -la
+   25  git add origin https://github.com/andreababbo/ProyectoLinux.git
+   26  git add origin https://github.com/andreababbo/ProyectoLinux
+   27  git add .
+   28  git status
+   29  git commit -m "archivos script"
+   30  git config --global user.email "andreababbo90@example.com
+   31  git config --global user.email "andreababbo90@example.com"
+   32  git config --global user.email "andreababbo90@example.com
+   33  git config --global user.email "andreababbo90@gmail.com"
+   34  git config --global user.name "Andrea Babbo"
+   35  git commit -m "archivos script"
+   36  git status
+   37  git push origin master
+   38  git add origin https://github.com/andreababbo/ProyectoLinux
+   39  git pull origin master
+   40  git push origin master
+   41  git push -u origin master
+   42  git commit -i -m "archivos script"
+   43  cd Documentos
+   44  cd ProyectoLinux
+   45  ls
+   46  ls -la
+   47  rm -rf .git
+   48  git init
+   49  git add origin https://github.com/andreababbo/ProyectoLinux
+   50  git remote add origin https://github.com/andreababbo/ProyectoLinux.git
+   51  git pull origin master
+   52  git add origin https://github.com/andreababbo/ProyectoLinux
+   53  git commit -m "archivos script"
+   54  git remote add origin https://github.com/andreababbo/ProyectoLinux.git
+   55  git add origin https://github.com/andreababbo/ProyectoLinux
+   56  git pull origin master
+   57  git add.
+   58  git pull origin master
+   59  git add .
+   60  git commit -m "archivos script"
+   61  git push origin
+   62  git push origin master
+   63  gedit .gitignore
+   64  git add .gitignore
+   65  git status
+   66  git commit -m "actualizar gitignore"
+   67  git push origin master
+   68  git tag
+   69  git tag -a v.0 -m "tag inicial proyecto linux"
+   70  git tag
+   71  git push origin master --tags
+   72  cd ..
+   73  git clone --branch v.0 https://github.com/andreababbo/ProyectoLinux.git ProyectoLinux0
+   74  cd ProyectoLinux0
+   75  git log
+   76  git config --global color.ui true
+   77  git init
+   78  git status
+   79  git config --global color.ui true
+   80  git status
+   81  cd Documentos
+   82  Cd Libro
+   83  cd Libro
+   84  git init
+   85  git status
+   86  touch indice.txt
+   87  gedit indice.txt
+   88  git status
+   89  git remote add origin https://github.com/andreababbo/Libro
+   90  git pull origin master
+   91  git status
+   92  git add .
+   93  git commit -m "primera subida Libro"
+   94  git status
+   95  git push origin master
+   96  git status
+   97  gedit indice.txt
+   98  GIT STATUS
+   99  git status
+  100  git commit -m "Añadido capítulo 3 sobre gestión de ramas"
+  101  git pull origin master
+  102  git add .
+  103  git commit -m "Añadido capítulo 3 sobre gestión de ramas"
+  104  git push origin master
+  105  git status
+  106  git tag
+  107  git diff
+  108  git show
+  109  git commit --amend -m "añadido capitulo 3 sobre gestion de ramas al indice"
+  110  git show
+  111  git log
+  112  git show
+  113  git clone https://github.com/andreababbo/Libro libro_clon
+  114  cd ..
+  115  git clone https://github.com/andreababbo/Libro libro_clon
+  116  cd Libro
+  117  git init
+  118  git status
+  119  git show
+  120  mkdir capitulos
+  121  cd capitulos
+  122  touch capitulo1.txt
+  123  gedit capitulo1.txt
+  124  git status
+  125  git remote add origin https://github.com/andreababbo/Libro
+  126  cd ..
+  127  cd Documentos
+  128  git clone https://github.com/asalber/libro-git
+  129  cd libro-gir
+  130  cd libro-git
+  131  git reset --hard 8c808
+  132  git remote remove origin
+  133  git log
+  134  mkdir capitulos
+  135  cd capitulos
+  136  touch capitulo1.txt
+  137  gedit capitulo1.txt
+  138  git add .
+  139  git commit -m "añadido capitulo 1"
+  140  git log
+  141  git init
+  142  git status
+  143  git add .
+  144  git commit -m "añadido capitulo 1"
+  145  git log
+  146  git status
+  147  git pull origin master
+  148  git status
+  149  git add .
+  150  git push origin master
+  151  git remote add origin https://github.com/andreababbo/Libro
+  152  git pull origin master
+  153  git add .
+  154  git commit -m "añadido capitulo 1"
+  155  git push origin master
+  156  git init
+  157  git status
+  158  cd ..
+  159  git status
+  160  git remote add origin https://github.com/andreababbo/libro-git
+  161  git pull origin master
+  162  git status
+  163  git add .
+  164  git commit -m "añadido capitulo 1"
+  165  git push origin master
+  166  cd Documentos
+  167  cd libro-git
+  168  git init
+  169  git status
+  170  git remote add origin https://github.com/andreababbo/libro-git
+  171  git pull origin master
+  172  git status
+  173  git add .
+  174  git commit -m "añadido capitulo 1"
+  175  git push origin master
+  176  cd Documentos
+  177  git clone https://github.com/asalber/libro-git
+  178  cd libro-git
+  179  git reset -- hard 8c808
+  180  git remote remove origin
+  181  git log
+  182  cd Documentos
+  183  git log
+  184  cd libro-git
+  185  git log
+  186  cd Documentos
+  187  cd libro-git
+  188  git add .
+  189  cd Documentos
+  190  git clone  https://github.com/AgustinPrf/libro-git.git
+  191  cd libro-git
+  192  git reset --hard 48ed8
+  193  git remote remove origin
+  194  gedit indice.txt
+  195  git init
+  196  git status
+  197  git remote add origin https://github.com/andreababbo/libro-git
+  198  git pull origin master
+  199  git status
+  200  git add .
+  201  git commit -m"modificacion indice"
+  202  git status
+  203  git push origin master
+  204  git status
+  205  ls -la
+  206  git pull origin master
+  207  ls -la
+  208  git pull origin master
+  209  git log --oneline
+  210  git remote -c
+  211  git remote -v
+  212  git pull origin master
+  213  git pull --force origin master
+  214  clear
+  215  cd Documentos
+  216  git clone https://github.com/andreababbo/libro-git
+  217  git clone https://github.com/AgustinPrf/libro-git.git
+  218  cd libro-git
+  219  git reset --hard 8c808
+  220  git remote remove origin
+  221  git init
+  222  git status
+  223  cd Documentos
+  224  git clone https://github.com/AgustinPrf/libro-git.git
+  225  cd libro-git
+  226  git reset --hard 48ed8
+  227  git remote remove origin
+  228  git init
+  229  gedit indice.txt
+  230  git status
+  231  git remote add origin https://github.com/andreababbo/libro-git
+  232  git pull origin master
+  233  git remote add origin https://github.com/andreababbo/libro-git.git
+  234  git pull origin master
+  235  git status
+  236  git add .
+  237  git commit -m "modificacion indice"
+  238  git push origin master
+  239  git --reset indice.txt
+  240  git checkout de731b6 indice.txt
+  241  git status
+  242  git add .
+  243  git commit -m "version anterior"
+  244  git checkout 48ed886 indice.txt
+  245  git add .
+  246  git commit -m "version anterior"
+  247  git status
+  248  git push origin master
+  249  git status
+  250  gedit indice.txt
+  251  git status
+  252  git checkout indice.txt
+  253  git status
+  254  gedit indice.txt
+  255  cd capitulos
+  256  rm -r capitulo3.txt
+  257  tocuh capitulo4.txt
+  258  touch capitulo4.txt
+  259  git status
+  260  git add .
+  261  git status
+  262  cd ..
+  263  git status
+  264  git add .
+  265  git status
+  266  git checkout indice.txt
+  267  git status
+  268  git reset indice.txt
+  269  git status
+  270  git reset .
+  271  git status
+  272  git checkout .
+  273  git status
+  274  git checkout 48ed886
+  275  git checkout 48ed886 .
+  276  git checkout 48ed886 indice.txt
+  277  git status
+  278  git reset capitulo4.txt
+  279  git checkout .
+  280  git status
+  281  git add .
+  282  git status
+  283  git checkout .
+  284  git status
+  285  git reset .
+  286  git status
+  287  git checkout .
+  288  git status
+  289  cd capitulos
+  290  rm capitulo4.txt
+  291  ls -la
+  292  cd ..
+  293  git status
+  294  git push orgin master
+  295  git push origin master
+  296  git status
+  297  git add .
+  298  git push origin master
+  299  git status
+  300  git checkout 48ed886
+  301  git status
+  302  git checkout d0ca1f0
+  303  git status
+  304  git checkout 48ed886
+  305  git add .
+  306  git status
+  307  git commit -m "estado inicial"
+  308  git push origin master
+  309  git status
+  310  cd ..
+  311  cd History
+  312  mkdir git
+  313  cd git
+  314  touch introduciion_git.txt
+  315  ls -la
+  316  touch introducion_git.txt
+  317  ls -la
+  318  git init
+  319  git status
+  320  git add .
+  321  git status
+  322  git commit -m "primera subida de la historia de git"
+  323  git push
+  324  git push origin master
+  325  git remote add origin https://github.com/andreababbo/History.git
+  326  git push origin master
+  327  git init
+  328  git status
+  329  git remote add origin https://github.com/andreababbo/History.git
+  330  git pull origin master
+  331  git status
+  332  git add .
+  333  git commit -m "primera subida de la historia de git"
+  334  git push origin master
+  335  git status
+  336  cd ..
+  337  git push origin master
+  338  git init
+  339  git status
+  340  git add .
+  341  git push origin master
+  342  git remove
+  343  git init
+  344  git status
+  345  git add .
+  346  git commit -m "archivo añadido"
+  347  git push origin master
+  348  git status
+  349  history
+  350  cd git
+  351  history > introducion_git.txt
